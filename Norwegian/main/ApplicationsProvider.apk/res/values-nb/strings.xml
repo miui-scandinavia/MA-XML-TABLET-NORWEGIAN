@@ -1,0 +1,7 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<resources>
+  <string name="app_label">App-søk</string>
+  <string name="application_desc">Applikasjon</string>
+  <string name="search_label">Apps</string>
+  <string name="settings_description">Navn på installerte applikasjoner</string>
+</resources>

@@ -1,6 +1,6 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <resources>
-  <string name="activity_not_found">"Appen er ikke installert på din telefno"</string>
+  <string name="activity_not_found">"Appen er ikke installert på din telefon"</string>
   <string name="application_name">System launcher</string>
   <string name="apply_as_lock_wallpaper">Bruk</string>
   <string name="apply_as_lock_wallpaper_message">Bruk dette bakgrunnsbildet på låseskjermen din også?</string>

@@ -119,7 +119,7 @@
   <string name="permdesc_write_settings">Tillater en app å endre innstillinger og snarveier i Hjem.</string>
   <string name="permlab_install_shortcut">Installer snarveier</string>
   <string name="permlab_install_widget">Installer widgeter</string>
-  <string name="permlab_read_settings">Les hjeminnstillinger og snarveier/string>
+  <string name="permlab_read_settings">Les hjeminnstillinger og snarveier</string>
   <string name="permlab_uninstall_shortcut">Avinstaller snarveier</string>
   <string name="permlab_write_settings">Endre hjeminnstillinger og snarveier</string>
   <string name="photo_adjust">Forhåndsvis</string>

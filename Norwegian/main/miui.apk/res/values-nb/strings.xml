@@ -266,7 +266,7 @@
   <string name="solar_term_slight_cold">Litt kaldt</string>
   <string name="solar_term_slight_heat">Litt hett</string>
   <string name="solar_term_spring_begins">Våren begynner</string>
-  <string name="solar_term_stopping_the_heat">Stopper heten</string>
+  <string name="solar_term_stopping_the_heat">Heten stopper</string>
   <string name="solar_term_summer_begins">Sommeren begynner</string>
   <string name="solar_term_summer_solstice">Sommersolverv</string>
   <string name="solar_term_the_rains">Regnet</string>
@@ -289,7 +289,7 @@
   <string name="the_double_ninth_festival">Dobbel Niende Festival</string>
   <string name="the_dragon_boat_festival">Dragebåt Festival</string>
   <string name="the_easter_day">Påskedag</string>
-  <string name="the_eve_of_the_spring_festival">Kvelden før Vår-festivalen</string>
+  <string name="the_eve_of_the_spring_festival">Kvelden før kinesisk nyttår</string>
   <string name="the_fifth_day">Femte dag</string>
   <string name="the_fools_day">Aprilsdag</string>
   <string name="the_forth_day">Fjerde dag</string>
@@ -310,12 +310,12 @@
   <string name="the_seventh_day">Sjuende dagen</string>
   <string name="the_sixth_day">Sjette dagen</string>
   <string name="the_spirit_festival">Pågangsmot-festival</string>
-  <string name="the_spring_festival">Vårfestival</string>
+  <string name="the_spring_festival">Kinesisk nyttår</string>
   <string name="the_teachers_day">Lærerens dag</string>
   <string name="the_third_day">Tredje dag</string>
   <string name="the_tw_childrens_day">Barnas dag</string>
   <string name="the_tw_youth_day">Ungdommens dag</string>
-  <string name="the_united_nations_day">Forente nasjoners dag</string>
+  <string name="the_united_nations_day">FN-dagen</string>
   <string name="the_valentines_day">Valentines Day</string>
   <string name="the_water_lantern_festival">Vannlykt festival</string>
   <string name="thursday">Torsdag</string>

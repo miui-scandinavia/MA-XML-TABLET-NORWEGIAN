@@ -710,7 +710,7 @@ Denne innstillingen påvirker alle brukerne på dette enheten."</string>
   <string name="debug_layout_summary">Vis kanter, marger osv.</string>
   <string name="debug_log">Brukeropplevelsesprogram</string>
   <string name="debug_monitoring_category">Overvåking</string>
-  <string name="default_input_method">Velg standard inndatametode<</string>
+  <string name="default_input_method">Velg standard inndatametode</string>
   <string name="default_usb_mode">USB-tilkobling</string>
   <string name="delete">Slett</string>
   <string name="deny">Avslå</string>

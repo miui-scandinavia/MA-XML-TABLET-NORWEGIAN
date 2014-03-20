@@ -2599,7 +2599,7 @@ Nettbrettkonfigureringen kan kreve betydelig nettverksaktivitet."</string>
   <string name="wifi_wapi_cert_mgmt_titlebar">WAPI-sertifikathåndtering</string>
   <string name="wifi_wapi_cert_mgmt_user_dont_exist">Skriv navn på brukersertifikat</string>
   <string name="wifi_wapi_cert_mgmt_user_format_is_wrong">Brukersertifikatsformat er feil.</string>
-  <string name="wifi_wapi_cert_mgmt_user_name_is_empty">Skriv navn på brukersertifikat/string>
+  <string name="wifi_wapi_cert_mgmt_user_name_is_empty">Skriv navn på brukersertifikat</string>
   <string name="wifi_wapi_cert_uninstall">Avinstaller WAPI-sertifikat</string>
   <string name="wifi_wapi_cert_uninstall_button">Avinstaller</string>
   <string name="wifi_wapi_certification_dont_exist">Nettverkspassordet du skrev er feil. Vennligst prøv igjen.</string>

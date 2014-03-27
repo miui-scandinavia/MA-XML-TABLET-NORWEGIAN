@@ -10,7 +10,7 @@
         <item quantity="two">Avinstaller %s og 1 annen app?</item>
     </plurals>
     <plurals name="uninstall_result_succeeded">
-        <item quantity="other">%1$ apper avinstallert</item>
+        <item quantity="other">%1$d apper avinstallert</item>
         <item quantity="one">App avinstallert</item>
     </plurals>
     <plurals name="uninstall_result_failed">

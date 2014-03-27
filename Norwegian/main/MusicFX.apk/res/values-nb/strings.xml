@@ -1,0 +1,17 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<resources>
+  <string name="app_name">MusicFX</string>
+  <string name="bass_boost_strength">Bassøkning</string>
+  <string name="ci_extreme">FX booster</string>
+  <string name="eq_dialog_title">Equalizer</string>
+  <string name="headset_plug">Koble til hodetelefoner for disse effektene.</string>
+  <string name="main_toggle_effects_title">Lydeffekter</string>
+  <string name="no_effects">Effekter er ikke tilgjengelig.</string>
+  <string name="picker_title">Kontrollpanel for musikkeffekter</string>
+  <string name="pr_dialog_title">Forhåndsvalgt reverb</string>
+  <string name="pr_summary">Ekstra effekter for romklang</string>
+  <string name="pr_title">Reverb:</string>
+  <string name="setup">Sett opp</string>
+  <string name="user">Bruker</string>
+  <string name="virtualizer_strength">Surround-lyd</string>
+</resources>

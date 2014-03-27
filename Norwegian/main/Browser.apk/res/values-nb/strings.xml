@@ -165,6 +165,7 @@
   <string name="delete_bookmark_warning">slett bokmerke \"%s\"?</string>
   <string name="delete_folder">slett mappe</string>
   <string name="delete_multi_bookmarks_alert_title">Er du sikker på du vil slette %1$s elementer?</string>
+  <string name="delete_quicklink_warning">Slett \"%s\" fra raske linker?</string>
   <string name="disable_autofill">Deaktiver Autofyll</string>
   <string name="do_not_save">Avbryt</string>
   <string name="done">Ferdig</string>
@@ -272,6 +273,7 @@
   <string name="miui_function_menu_add_to_bookmark">Bokmerk</string>
   <string name="miui_function_menu_add_to_quicklinks">Legg til rask link</string>
   <string name="miui_function_menu_delete_to_bookmark">Slett bokmerke</string>
+  <string name="miui_function_menu_delete_to_quicklinks">Slett rask link</string>
   <string name="miui_function_menu_find_in_page">Finn på side</string>
   <string name="miui_function_menu_share_system">Del</string>
   <string name="miui_startpage">Startside</string>
@@ -437,6 +439,7 @@
   <string name="profiler_started_toast">Profiler startet</string>
   <string name="profiler_stopped_toast">Profiler ferdig. Resultater er i %1$s.</string>
   <string name="progress_dialog_setting_wallpaper">Setter bakgrunnsbilde…</string>
+  <string name="quicklink_have_deleted">Denne siden har blitt slettet</string>
   <string name="quicklink_have_modified">Denne siden har blitt endret</string>
   <string name="quicklink_management_title">Legg på startside</string>
   <string name="quicklink_saved_before">Denne siden har blitt lagt til</string>

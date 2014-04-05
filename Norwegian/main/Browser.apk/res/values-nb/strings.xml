@@ -50,7 +50,9 @@
   <string name="advertise_pop_window">Blokker popup-vindu</string>
   <string name="advertise_suspend_window">Unngå flytende vindu</string>
   <string name="allow">Tillat</string>
-  <string name="already_in_top_level">Bokmerke er allerede på øverste nivå</string>
+  <string name="already_in_top_level">Bokmerket er allerede på øverste nivå</string>
+  <string name="app_new_version">Nedlastning fullført og den seneste versjonene av applikasjonen er allerede installert</string>
+  <string name="app_update_install">Nedlastning fullført og klar for å installere oppgradert versjon</string>
   <string name="application_name">Nettleser</string>
   <string name="autofill_profile_editor_address_line_1">Adresse Linje 1:</string>
   <string name="autofill_profile_editor_address_line_1_hint">Gatenavn og husnummer, PO boks, c/o</string>
@@ -169,6 +171,8 @@
   <string name="disable_autofill">Deaktiver Autofyll</string>
   <string name="do_not_save">Avbryt</string>
   <string name="done">Ferdig</string>
+  <string name="download_complete">Fil-nedlastning fullført</string>
+  <string name="download_failed">Nedlastning feilet</string>
   <string name="download_no_sdcard_dlg_msg">USB-lagring er nødvendig for å laste ned %s.</string>
   <string name="download_no_sdcard_dlg_title">USB utilgjengelig</string>
   <string name="download_pending">Start nedlastning ...</string>
@@ -186,6 +190,10 @@
   <string name="error_console_eval_text_hint">Evaluer JavaScript</string>
   <string name="error_console_header_text_maximized">JavaScript-konsol</string>
   <string name="error_console_header_text_minimized">Vis JavaScript-konsol</string>
+  <string name="error_forbidden">Det har oppstått problemer med din konto: Synk deaktivert.</string>
+  <string name="error_not_acceptable">Serverfeil: Synk deaktivert.</string>
+  <string name="error_title">Synkfeil</string>
+  <string name="error_unauthorized">For mange innloggingsforsøk: Synk deaktivert.</string>
   <string name="find_in_page_close_accessibility_text">lukk finn på side</string>
   <string name="find_in_page_down_accessibility_text">finn neste</string>
   <string name="find_in_page_edit_text_hint">Skriv tekst du skal finne</string>
